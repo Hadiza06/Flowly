@@ -1,0 +1,30 @@
+*{
+font-family:verdana;
+}
+
+#container {
+    width:700px;
+    margin:auto;
+}
+
+.message_header {
+display: flex;
+}
+
+.message_username{
+font-weight: bold;
+margin-margin: 0.5rem;
+}
+
+.message_creatd_at{
+color: #424242;
+}
+
+.message_content{
+font-size: 1.2rem;
+padding: 0.5rem;
+}
+
+hr {
+border-top: 1px solid #84848410;
+}
